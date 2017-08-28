@@ -14,8 +14,10 @@ IMAGE ANALYSIS ALGORITHM: Two dialog box opens where the user inputs the source 
 
 
 DATA ANALYSIS: The R script uses the features measured by the image analysis script to calculate the intermingling degree and the Protein enrichment at the IMR using the following equations. 
+
 Intermingling degree (IMD) = (Volume of IMR between chromosomes A and B)/Volume of chromosome A + Volume of chromosome B)
 Protein enrichment (PR) = (Mean Intensity of protein in the IMR) /  (Mean intensity of the protein in the nucleus)
+
 The difference between the IMD and PR between samples is visualized as a boxplot and the significance of this difference is tested using the Welsh two sample t-test. 
 
 
