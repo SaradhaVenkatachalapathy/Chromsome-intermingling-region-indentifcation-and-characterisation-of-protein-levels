@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///////  MACRO TO IDENTIFY AND CHARACTERISE INTERMINGLING REGIONS BETWEEN CHROMOSOMES                											                    /////////////
+///////  SCRIPT TO IDENTIFY AND CHARACTERISE INTERMINGLING REGIONS BETWEEN CHROMOSOMES                											                    /////////////
 ///////  WRITTEN BY: SARADHA VENKATACHALAPATHY                                                                                                                      /////////////
 ///////  DATE LAST EDITED: April 5th, 2017                                                                                                                          /////////////
 ///////  ASSUMPTIONS: The input image is a confocal zstack (slice height=0.5microns) with 4 channels, the channel One contains the nucleus and then there are two 
