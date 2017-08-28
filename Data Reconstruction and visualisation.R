@@ -64,4 +64,4 @@ boxplot(Enrichment_pol2_S1,Enrichment_pol2_S2,las=1,col="gray",pch=18,names=cond
 dev.off()
 
 
-
+t.test(Enrichment_pol2_S1,Enrichment_pol2_S2)
