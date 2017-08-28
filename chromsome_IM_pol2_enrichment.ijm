@@ -68,11 +68,11 @@ for(i=0; i<filenames.length; i++){
 	saveAs("tiff", newDir93+baseName);
 	run("Gaussian Blur...", "sigma=0.15 scaled stack");
 	saveAs("tiff", newDir9+baseName);
-	setAutoThreshold("RenyiEntropy dark stack");
+	setAutoThreshold("Otsu dark stack");
 	setSlice(nSlices/2);
 	//waitForUser("check please");
 	getThreshold(lower_ch1[i], upper_ch1[i]);
-	run("Convert to Mask", "method=RenyiEntropy background=Dark black");
+	run("Convert to Mask", "method=Otsu background=Dark black");
 	saveAs("tiff", newDir91+baseName);	
 	run("Close All");
 
