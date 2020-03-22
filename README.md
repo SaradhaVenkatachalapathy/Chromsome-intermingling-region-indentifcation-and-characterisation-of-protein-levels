@@ -23,4 +23,4 @@ The difference between the IMD and PR between samples is visualized as a boxplot
 
 
 <br/> <br/>
-<img src='/intermingling_measurements.png' height='1000' width='1000'><br/>
+<img src='/intermingling_measurements.png' height='800' width='1000'><br/>
