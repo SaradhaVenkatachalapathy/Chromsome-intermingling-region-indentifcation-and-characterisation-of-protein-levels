@@ -22,4 +22,5 @@ Protein enrichment (PR) = (Mean Intensity of protein in the IMR) /  (Mean intens
 The difference between the IMD and PR between samples is visualized as a boxplot and the significance of this difference is tested using the Welsh two sample t-test. 
 
 
-
+<br/> <br/>
+<img src='/intermingling_measurements.png' height='1000' width='1000'><br/>
