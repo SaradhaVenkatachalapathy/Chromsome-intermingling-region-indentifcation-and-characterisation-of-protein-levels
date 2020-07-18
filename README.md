@@ -1,8 +1,6 @@
 # Chromsome-intermingling-region-indentifcation-and-characterisation-of-protein-levels
 
-WRITTEN BY: SARADHA VENKATACHALAPATHY
-
-DATE LAST EDITED: April, 2017
+Analysis performed for the Belyaeva et.al PNAS 2017 Paper
 
 Executed in FIJI (ImageJ v 1.51n). Requires Bio-Formats and R(v3.3)
 
@@ -23,4 +21,8 @@ The difference between the IMD and PR between samples is visualized as a boxplot
 
 
 <br/> <br/>
-<img src='/intermingling_measurements.png' height='800' width='1000'><br/>
+<img src='/intermingling_measurements.png' height='400' width='400'>
+<br/>
+
+For more details visit [our paper](https://www.pnas.org/content/114/52/13714.long).  
+
